@@ -371,6 +371,7 @@ allow both IT and citizen developers to construct process-centric and case-centr
 - [MQTT](https://mqtt.org/mqtt-specification/) - The Message Queuing Telemetry Transport (MQTT) is a lightweight, publish-subscribe network protocol that transports messages between devices.
 - [SOAP](https://www.w3.org/TR/soap/) - Simple Object Access Protocol is XML-based messaging protocol. 
 - [STOMP](https://stomp.github.io/) - Simple (or Streaming) Text Orientated Messaging Protocol.
+- [XML-RPC](http://xmlrpc.com/spec.md) - A remote procedure call (RPC) protocol which uses XML to encode its calls and HTTP as a transport mechanism.
 
 ### Standard APIs
 - [JDBC](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/) - Java Database Connectivity (JDBC) API provides universal data access from the Java programming language.
